@@ -2,6 +2,6 @@
 
 Some Description!
 
-## Arrat Representation
+## Array Representation
 
 Watch Tutorial on YouTube.
